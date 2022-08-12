@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "934132166157",
+    "project_id": "stonezebra-359216",
+    "storage_bucket": "stonezebra-359216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934132166157:android:682b5e9ab94d7478fb2f44",
+        "android_client_info": {
+          "package_name": "com.flutterflow.courts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934132166157-qtedqj8mk3vf537snrt87vpmhvdue30u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgOMehy3ObAtsK4uuiptixKVF4BS_MvRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934132166157-qtedqj8mk3vf537snrt87vpmhvdue30u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "934132166157-epqlugue8nq6g3h8hbfjps2r4nud9j3m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.courts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
